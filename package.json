@@ -1,0 +1,32 @@
+{
+  "name": "issuetracker",
+  "version": "1.0.0",
+  "description": "nodejs + ejs  application to track issues/bugs for a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "type": "module",
+  "keywords": [
+    "issue",
+    "tracker",
+    "nodejs",
+    "ejs",
+    "expressjs",
+    "backend",
+    "MVC",
+    "skill",
+    "test"
+  ],
+  "dependencies": {
+    "config": "^3.3.7",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^6.4.1",
+    "nodemon": "^2.0.21"
+  },
+  "author": "Nayan Das",
+  "license": "ISC"
+}
